@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+#### 💬 I am a Master student at Sun Yat-sen University, School of Electronic and Communication Engineering.
+- 👀 I’m interested in CV
+- 🌱 I’m currently learning image fusion
+- 📫 E-Mail liushh39@mail2.sysu.edu.cn
 <!--
 **liushh39/liushh39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
