@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 💬 I am a Master student at Sun Yat-sen University, School of Electronic and Communication Engineering.
+#### 💬 I am a M.E. student at Sun Yat-sen University, School of Electronic and Communication Engineering.
 - 👀 I’m interested in CV
 - 🌱 I’m currently learning image fusion
 - 📫 E-Mail liushh39@mail2.sysu.edu.cn
