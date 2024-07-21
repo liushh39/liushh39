@@ -6,8 +6,9 @@
 
 #### ⚡⚡⚡
 1. "Learning multi-granularity semantic interactive representation for joint low-light image enhancement and super-resolution", Information Fusion. 【[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002458)】【[Code](https://github.com/liushh39/MSIRNet)】
-2. Joint low-light enhancement and deblurring.【[Code](https://github.com/liushh39/I-E)】
-3. A summary of open-source deep learning-based infrared and visible image fusion and some vision algorithms.【[Code](https://github.com/liushh39/IVIF-Code-Interpretation)】
+2. "AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module", IEEE Sensors Journal. 【[Paper](https://ieeexplore.ieee.org/document/10605610)】【[Code](https://github.com/liushh39/AGMFusion)】
+3. Joint low-light enhancement and deblurring.【[Code](https://github.com/liushh39/I-E)】
+4. A summary of open-source deep learning-based infrared and visible image fusion and some vision algorithms.【[Code](https://github.com/liushh39/IVIF-Code-Interpretation)】
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EF7F0&random=false&width=435&lines=Nice+to+meet+you" alt="Typing SVG" /></a>
